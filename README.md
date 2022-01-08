@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctarx&show_icons=true&theme=gruvbox)
 
 - I love gruvbox 😄
+
 - 📫 How to reach me:
   - Mastadon: [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
   - IRC [Libera Chat](https://web.libera.chat/)
