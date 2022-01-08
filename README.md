@@ -5,6 +5,7 @@
 - I love gruvbox 😄
 - 📫 How to reach me:
   - Mastadon: [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
+  - IRC [Libera Chat](https://web.libera.chat/)
 
 <!--
 **ctarx/ctarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
