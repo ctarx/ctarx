@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm ctarx 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctarx&show_icons=true&theme=gruvbox)
+
+- I love gruvbox 😄
+- 📫 [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
 
 <!--
 **ctarx/ctarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
