@@ -5,7 +5,7 @@
 - I love gruvbox 😄
 
 - 📫 How to reach me:
-  - Mastadon: [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
+  - Mastadon: <a rel="me" href="https://linuxrocks.online/@ctarx">@ctarx</a> - feel free to contact me!
   - IRC [Libera Chat](https://web.libera.chat/)
 
 <!--
