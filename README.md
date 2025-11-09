@@ -2,7 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctarx&show_icons=true&theme=gruvbox)
 
-- I love gruvbox 😄
+- Linux enjoyer 🐧
+- Loyal to gruvbox 😄
 
 - 📫 How to reach me:
   - IRC [Libera Chat](https://web.libera.chat/)
